@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Subhash Thenua</h1>
 
 - 👨‍🎓 CSE Undergraduate | Indian Institute of Information Technology, Jabalpur
-- 🌱 Passionate about: Software Engineering, designing scalable and efficient systems, and contributing to impactful open-source projects.
-- 💬 Expertise: Software Development, Test Automation, and System Design. Always open to discussing technology, innovation, and best practices in engineering.
-- 📫 Contact: [LinkedIn]([url](https://www.linkedin.com/in/subhash-thenua-9a1500234/)) or email me at subhashthenua20082002@gmail.com
+- 🌱 Passionate about:  Software Engineering, designing scalable and efficient systems, and contributing to impactful open-source projects.
+- 💬 Expertise:  Software Development, Test Automation, and System Design. Always open to discussing technology, innovation, and best practices in engineering.
+- 📫 Contact:  [LinkedIn](https://www.linkedin.com/in/subhash-thenua-9a1500234/) or email me at `subhashthenua20082002@gmail.com`
 
 ## ⚙️ &nbsp;GitHub Analytics
 
